@@ -53,7 +53,7 @@ export const workExp = [
     // tenure: "Aug 2014 - Sep 2016",
     // role: "Sr. Product Designer",
     detail:
-      "Freya Aurora Camila is employed by DIGITAL ASSET CREST, INC., which provides investment advisory service for clients.",
+      "Freya Aurora Camila is employed by Elite Globe INC., which provides investment advisory service for clients.",
   },
   {
     // place: "Global Solution",
